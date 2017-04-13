@@ -5,6 +5,8 @@ int main(void){
   int y = 89;
   printf("This is my print of the original numbers: x = %d and y = %d\n", x,y);
 
-  // Implement the swap routine
+  // Swap x and y
+  swap(x, y);
+  printf("This is my print of the swapped numbers: x = %d and y = %d\n", x, y);
   return 0;
 }
