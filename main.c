@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include "swap.h"
 int main(void){
-  int x = 7;
+  int x = 39;
   int y = 89;
   printf("This is my print of the original numbers: x = %d and y = %d\n", x,y);
 
